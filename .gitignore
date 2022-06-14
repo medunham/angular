@@ -2,6 +2,9 @@
 node_modules
 dist
 coverage
+tmp
+out-tsc
+bazel-out
 
 # development / debugging log files
 logs
@@ -16,6 +19,7 @@ lerna-debug.log*
 
 # operating system specific files
 .DS_Store
+Thumbs.db
 
 # development tools
 /.idea
